@@ -1,0 +1,49 @@
+body {  
+   background-image: url(sea-4068774_1920.jpg);
+    padding-top: 15px;
+    color: #003300;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+#color{
+    background-color: white;
+    
+}
+
+#wrapper {
+    
+    width: 80%;
+    min-width: 700px;
+    max-width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #FFFFCC;
+    padding: 0 0 20px 30px;
+    border: 1px ridge #00332B;
+    border-radius: 15px;
+    box-shadow: inset -3px -3px 3px 3px #00332B;
+    
+}
+header {
+    color: #48751A;
+    
+    background-repeat: no-repeat;
+    height: 100px;
+}
+main{
+    font-size: 25px;
+}
+h2{
+    color:green;}
+h3{
+    color: darkblue;
+}
+ul{
+color:green;}
+dt{
+    color: green;
+}
+.contact{
+    font-weight: bold;
+}
